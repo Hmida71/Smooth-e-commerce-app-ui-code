@@ -2,6 +2,10 @@
 smooth e-commerce designe made with algeria ❤ By Dz-Tm071
 
 
+
+![Screenshot_20221009-232704](https://user-images.githubusercontent.com/69757558/194782571-507e2078-9eaf-47a2-9a92-3396397d863c.jpg)
+![Screenshot_20221009-232651](https://user-images.githubusercontent.com/69757558/194782574-753cf5dd-372a-4e9e-a6b3-0908bd67b706.jpg)
+
 <table>
 <thead>
   
@@ -64,12 +68,14 @@ smooth e-commerce designe made with algeria ❤ By Dz-Tm071
     
     
     
-  <a target="_blank" rel="" href="https://user-images.githubusercontent.com/69757558/147983255-e31cab4f-aab8-44ae-841b-5be3c4c0bc77.png">
-  <img src="https://user-images.githubusercontent.com/69757558/147982560-4e876472-c4f9-43e5-a335-9b456f1bf34b.png" alt="Css Logo" with="200" height="400"/>
-     <img src="https://user-images.githubusercontent.com/69757558/147983255-e31cab4f-aab8-44ae-841b-5be3c4c0bc77.png" alt="Css Logo" with="200" height="400"/>
+  <a target="_blank" rel="" href="https://user-images.githubusercontent.com/69757558/194782571-507e2078-9eaf-47a2-9a92-3396397d863c.jpg">
+  <img src="https://user-images.githubusercontent.com/69757558/194782571-507e2078-9eaf-47a2-9a92-3396397d863c.jpg" alt="Css Logo" with="200" height="400"/></a>
+    <a target="_blank" rel="" href="https://user-images.githubusercontent.com/69757558/194782574-753cf5dd-372a-4e9e-a6b3-0908bd67b706.jpg">
+     <img src="https://user-images.githubusercontent.com/69757558/194782574-753cf5dd-372a-4e9e-a6b3-0908bd67b706.jpg" alt="Css Logo" with="200" height="400"/>
+</a>
 
-
-  </a></td>
+  
+  </td>
   
 </tr>
 </tbody>
