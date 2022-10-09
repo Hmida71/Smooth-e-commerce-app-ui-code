@@ -1,6 +1,4 @@
-# day_1_ui_app
-
-
+# Smooth E-commerce app ui 💯 Day-1 🔥
 
 
 
@@ -87,3 +85,6 @@
 
 
  <hr>
+ 
+ 🔥 Smooth UI E-commerce App Challenge Day-1 🔥
+
